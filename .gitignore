@@ -19,6 +19,14 @@
 *.tar.gz
 *.rar
 
+hs_err_pid*
+
+.gradle
+/build/
+!gradle/wrapper/gradle-wrapper.jar
+/out/
+/target/
+
 ### STS ###
 .apt_generated
 .classpath
